@@ -68,7 +68,7 @@ Add your project screenshot here:
 
 ```
 screenshots/homepage.png
-```
+
 
 ## 🚀 Running the Project
 
