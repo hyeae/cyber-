@@ -59,15 +59,6 @@ The detector identifies spam numbers based on:
 The interface adapts automatically for:
 
 - Desktop
-- Tablet
-- Mobile devices
-
-## 📸 Screenshot
-
-Add your project screenshot here:
-
-```
-screenshots/homepage.png
 
 
 ## 🚀 Running the Project
